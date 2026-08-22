@@ -397,7 +397,6 @@ By combining **advanced Python analysis, Feature Engineering, financial calculat
 **Data Analyst | Python | Power BI | SQL | Excel**
 
 📧 **Email:** niravtrivedi069@gmail.com  
-📍 **Surat, India**
 
 💼 [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b/)  
 🐙 [GitHub](https://github.com/niravtrivedi23)  
