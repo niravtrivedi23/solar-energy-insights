@@ -1,6 +1,5 @@
 # ☀️ Solar Energy Insights: Savings, Subsidy & Sustainable Impact
 
-### An End-to-End Data Analytics Project Using Python & Power BI
 
 ---
 
