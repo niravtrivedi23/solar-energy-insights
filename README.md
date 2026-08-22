@@ -399,13 +399,12 @@ By combining **advanced Python analysis, Feature Engineering, financial calculat
 📧 **Email:** niravtrivedi069@gmail.com  
 
 💼 [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b/)  
-🐙 [GitHub](https://github.com/niravtrivedi23)  
-🌐 [Portfolio](https://niravtrivedi23.github.io/)
+🐙 [GitHub](https://github.com/niravtrivedi23) 
 
 ---
 
 # ☀️ Final Thought
 
-> **"A solar installation does more than generate electricity—it reduces future bills, benefits from subsidy support, creates long-term savings, and helps build a cleaner environment."**
+> **"Solar is not just about producing clean energy—this analysis shows how the right solar investment can reduce electricity costs, recover its cost over time, create long-term financial value, and reduce environmental impact."**
 
-### **Turning Solar Data into Insights for Smarter Energy Decisions.**
+### **Turning Solar Data into Real-World Insights for Smarter Energy Decisions.**
