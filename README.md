@@ -267,7 +267,7 @@ Approximately **93.6% of projects** were classified as **Excellent Investments**
 
 Explore the complete analysis, calculations, feature engineering, visualizations, and insights:
 
-### 👉 [View Complete Advanced Python Analysis](https://github.com/niravtrivedi23/solar-energy-insights/blob/main/Python%20Advance%20Solar%20Analysis.pdf)
+### 👉 [View Complete Advanced Python Analysis](https://github.com/niravtrivedi23/solar-energy-insights/blob/main/Python%20Solar%20Advance%20Analysis.pdf)
 
 ---
 
